@@ -55,12 +55,3 @@
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-
-
-
-若有干扰，可在「设置」关闭悬浮球
-
-👋 Hi，想聊点什么～
-输入您的问题... (Enter 发送，Shift+Enter 换行)
-内容由AI生成，仅供参考
