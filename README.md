@@ -5,3 +5,4 @@
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=golang&logoColor=white)
 #
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=golang&logoColor=white)
+[PUBG CTF Challenge](https://github.com/your-username/pubg-ctf) - Custom game-based capture-the-flag environment
