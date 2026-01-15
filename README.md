@@ -10,6 +10,7 @@
 - 😍 Emoji lover
 - 🚀 One day I will see humans on Mars!
 - 🐇🥚 There's easter eggs in this profile...
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
