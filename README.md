@@ -1,4 +1,4 @@
-<h2> Hey I'm clearly3</h2>
+<h2> Hey there! I'm Dahezhiquan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -44,7 +44,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true"  alt=""/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact"  alt=""/>
 </a>
+
 <br/>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
