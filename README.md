@@ -5,13 +5,13 @@
 𝗜'𝗺 [𝗰𝗹𝗲𝗮𝗿𝗹𝘆𝟯](https://github.com/clearly3)
 
 **🚀About Me**
-- 🎓 Majoring in Computer Science (Class of 2020)  
-- 👀 I'm currently focusing on **web** and **android development**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
-- 🔭 I'm currently learning **Laravel & VueJS**
-- 💬 Ask me about: everything especially about **tech, movies, series**
-- **I** ❤️ **to think, learn, code, and customize everything**
-- 🔥 On Progress Project: E-learning build with Laravel 7
+- 🎓 Non-CS background → now a **penetration tester & CTF player**  
+- 👀 Focused on **web security** and **Android app security** (Pwn/Reverse)  
+- ⚙️ Daily stack: `.php`, `.js`, `.html`, `.css` → **building secure apps or breaking them**  
+- 🔭 Building **security-hardened E-learning platform** (Laravel 7)  
+- 💬 Ask me about: **CTF write-ups**, **bug bounty**, **infosec tools**, or **sci-fi series**  
+- ❤️ *Think deeply, learn constantly, code relentlessly, break things (safely!)*  
+- 🔥 **Making web apps unbreakable** — one Laravel feature at a time
 
 **💻Languages & Tools**
 
