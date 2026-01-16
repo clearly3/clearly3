@@ -14,6 +14,13 @@
 **Gaming Platforms:**
 
 <p align="center">
+  <code><img height="40" src="https://img.icons8.com/color/48/steam.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/xbox.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/playstation.png"></code>
+</p>
+**Gaming Platforms:**
+
+<p align="center">
   <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/png/steam.png"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/png/epicgames.png"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/png/xbox.png"></code>
