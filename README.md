@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/clearly3/clearly3/main/assets/welcome-black-bg.svg" />
+  <img src="https://raw.githubusercontent.com/clearly3/clearly3/main/assets/welcome-black-bg.svg"/>
 </p>
 
 𝗜'𝗺 [𝗰𝗹𝗲𝗮𝗿𝗹𝘆𝟯](https://github.com/clearly3)
