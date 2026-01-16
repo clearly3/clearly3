@@ -1,4 +1,4 @@
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FF00&lines=SYSTEM+ONLINE;TRACKING+VISITOR...)
+![Wave](https://raw.githubusercontent.com/rajput2107/rajput2107/master/wave.svg)
 
 
 **💻Languages and Tools**
