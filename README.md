@@ -27,7 +27,7 @@
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-6CBC4D?style=flat-square&logo=owaspzap&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596be?style=flat-square&logo=metasploit&logoColor=white)
 ![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-2d2d86?style=flat-square&logo=cobaltstrike&logoColor=white)
-![Sliver](https://img.shields.io/badge/Sliver-007EC6?style=flat-square&logo=go&logoColor=white)
+![Sliver](https://img.shields.io/badge/Sliver-007EC6?style=flat-square&logo=Sliver&logoColor=white)
 ![Havoc](https://img.shields.io/badge/Havoc-FF6C37?style=flat-square&logo=havoc&logoColor=white)
 ![FOFA](https://img.shields.io/badge/FOFA-1c7cff?style=flat-square&logo=fofa&logoColor=white)
 ![Shodan](https://img.shields.io/badge/Shodan-000000?style=flat-square&logo=shodan&logoColor=white)
