@@ -14,7 +14,7 @@
 
 **🎮Game Stack**
 
-<p align="center">
+<p align="">
   <code><img height="40" src="https://cdn.simpleicons.org/epicgames"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/xbox.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/steam.png"></code>
