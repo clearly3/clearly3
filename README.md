@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/spencerwooo/spencerwooo/master/network-animation.svg" alt="Network Animation" width="600">
-</p>
-
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 **💻Languages and Tools**
 
