@@ -21,4 +21,5 @@
   <code><img height="40" src="https://img.icons8.com/color/48/league-of-legends.png"></code>
   <code><img height="40" src="https://github.com/clearly3/clearly3/blob/main/assets/pubg.png"></code>
   <code><img width="40" src="https://raw.githubusercontent.com/clearly3/clearly3/main/assets/tomb.jpg"></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/clearly3/clearly3/main/assets/gta.jpg"></code>
 </p>
