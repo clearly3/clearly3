@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=39FF14&center=true&width=800&lines=Welcome+to+my+GitHub;Explore+my+projects+and+more!" alt="Typing SVG" style="background-color:black;padding:20px;border:5px solid black;border-radius:10px;">
-</p>
+<div style="background:#000; padding:16px; border-radius:8px; display:inline-block;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=00FF00&lines=Welcome+to+my+GitHub" />
+</div>
 
 **💻Languages and Tools**
 
