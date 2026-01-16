@@ -26,6 +26,7 @@
 ![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-2d2d86?style=flat-square&logo=cobaltstrike&logoColor=white)
 ![FOFA](https://img.shields.io/badge/FOFA-1c7cff?style=flat-square&logo=fofa&logoColor=white)
 ![Hunter](https://img.shields.io/badge/Hunter-0d5dfb?style=flat-square&logo=elastic&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0D9C00?style=flat-square&logo=nmap&logoColor=white)
 
 **🎮Game Stack**
 
