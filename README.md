@@ -1,4 +1,4 @@
-**💻Languages and Tools:**
+**💻Languages and Tools**
 
 <p align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
