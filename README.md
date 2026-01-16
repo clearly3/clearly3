@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=welcome+to+my+github)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/clearly3/clearly3/main/assets/typing-black-bg.svg" />
+</p>
 
 𝗜'𝗺 [𝗰𝗹𝗲𝗮𝗿𝗹𝘆𝟯](https://github.com/clearly3)
 
