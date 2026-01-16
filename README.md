@@ -1,4 +1,4 @@
-<p align="center">
+<p align="">
   <img src="https://raw.githubusercontent.com/clearly3/clearly3/main/assets/welcome-black-bg.svg"/>
 </p>
 
