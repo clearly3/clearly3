@@ -14,8 +14,9 @@
 **My Games:**
 
 <p align="center">
-  <code><img height="40" src="https://cdn.simpleicons.org/steam/000000"></code>
-  <code><img height="40" src="https://cdn.simpleicons.org/leagueoflegends"></code>
-  <code><img height="40" src="https://cdn.simpleicons.org/epicgames"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/steam.svg"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/epicgames.svg"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leagueoflegends.svg"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/playstation.svg"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xbox.svg"></code>
 </p>
