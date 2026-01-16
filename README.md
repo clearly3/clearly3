@@ -1,4 +1,6 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FF00&center=true&width=800&lines=Welcome+to+my+GitHub;Explore+my+projects+and+more!" alt="Typing SVG">
+</p>
 
 **💻Languages and Tools**
 
