@@ -17,5 +17,5 @@
   <code><img height="40" src="https://cdn.simpleicons.org/steam/000000"></code>
   <code><img height="40" src="https://cdn.simpleicons.org/leagueoflegends"></code>
   <code><img height="40" src="https://cdn.simpleicons.org/epicgames"></code>
-  <code><img height="40" src="https://cdn.simpleicons.org/xbox"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xbox.svg"></code>
 </p>
