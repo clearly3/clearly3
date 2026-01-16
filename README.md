@@ -1,4 +1,4 @@
-![Network](https://raw.githubusercontent.com/spencerwooo/spencerwooo/master/network-animation.svg)
+![Particles](https://raw.githubusercontent.com/brunofmeurer/brunofmeurer/main/particles.svg)
 
 
 **💻Languages and Tools**
