@@ -29,6 +29,7 @@
 ![FOFA](https://img.shields.io/badge/FOFA-1c7cff?style=flat-square&logo=fofa&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-276DC3?style=flat-square&logo=sqlmap&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat-square&logo=hashcat&logoColor=white)
 
 **🎮Game Stack**
 
