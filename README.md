@@ -19,4 +19,5 @@
   <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leagueoflegends.svg"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/playstation.svg"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xbox.svg"></code>
+<img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xbox.svg">
 </p>
