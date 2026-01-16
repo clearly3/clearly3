@@ -28,7 +28,7 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-6CBC4D?style=flat-square&logo=owaspzap&logoColor=black)
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=flat-square)
-
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 
 **🎮Game Stack**
