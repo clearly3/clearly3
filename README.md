@@ -1,4 +1,4 @@
-**Languages and Tools:**
+**💻Languages and Tools:**
 
 <p align="center">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
@@ -11,7 +11,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 </p>
 
-**🎮 Game Stack**
+**🎮Game Stack**
 
 <p align="center">
   <code><img height="40" src="https://cdn.simpleicons.org/epicgames"></code>
