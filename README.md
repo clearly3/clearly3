@@ -1,4 +1,4 @@
-![Wave](https://raw.githubusercontent.com/rajput2107/rajput2107/master/wave.svg)
+![Wave](https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/network.svg)
 
 
 **💻Languages and Tools**
