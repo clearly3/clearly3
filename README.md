@@ -7,9 +7,9 @@
 **🚀About Me**
 - 🎓 Non-CS student
 - ⚙️ Information Security Professional
-- 👀 A Penetration Tester and CTFer
+- 👀 A **Penetration Tester** and **CTFer**
 - 🔭 Bypass and Internal Network Penetration
-- 💬 Learning PHP/JAVA code audit
+- 💬 Learning **PHP/JAVA** code audit
 
 **💻Languages & Tools**
 
@@ -26,7 +26,7 @@
 ![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-2d2d86?style=flat-square&logo=cobaltstrike&logoColor=white)
 ![FOFA](https://img.shields.io/badge/FOFA-1c7cff?style=flat-square&logo=fofa&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-6CBC4D?style=flat-square&logo=owaspzap&logoColor=black)
 **🎮Game Stack**
 
 <p align="">
