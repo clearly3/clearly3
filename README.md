@@ -1,6 +1,6 @@
 𝗜'𝗺 [𝗰𝗹𝗲𝗮𝗿𝗹𝘆𝟯](https://github.com/clearly3)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
-**💻𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀**
+**💻Languages & Tools**
 
 ![Java](https://img.shields.io/badge/Java-5B4638?style=flat-square&logo=java&logoColor=000000)
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
