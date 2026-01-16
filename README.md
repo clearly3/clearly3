@@ -16,5 +16,6 @@
 <p align="center">
   <code><img height="40" src="https://cdn.simpleicons.org/epicgames"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/xbox.png"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/playstation.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/steam.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/league-of-legends.png"></code>
 </p>
