@@ -11,9 +11,10 @@
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 </p>
 
-**Languages and Tools:**
+**My Games:**
 
 <p align="center">
   <code><img height="40" src="https://cdn.simpleicons.org/steam/000000"></code>
   <code><img height="40" src="https://cdn.simpleicons.org/leagueoflegends"></code>
+  <code><img height="40" src="https://cdn.simpleicons.org/epicgames"></code>
 </p>
