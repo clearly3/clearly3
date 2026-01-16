@@ -1,7 +1,7 @@
 **💻Languages and Tools**
 
 ![Java](https://img.shields.io/badge/Java-5B4638?style=flat-square&logo=java&logoColor=000000)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
