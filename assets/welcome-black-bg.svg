@@ -1,77 +1,26 @@
-<svg width="480" height="60" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="60" xmlns="http://www.w3.org/2000/svg">
   <!-- 黑色背景 -->
-  <rect width="100%" height="100%" fill="#000000" rx="6" />
+  <rect width="100%" height="100%" fill="#000000" rx="8" />
 
-  <!-- 文字：分组紧凑排版 -->
+  <!-- 文字容器 -->
   <text x="20" y="38"
         font-family="Fira Code, Courier New, monospace"
         font-size="24"
-        letter-spacing="-0.5"  <!-- 紧凑字体 -->
         fill="#00FF00">
-    <!-- Welcome -->
-    <tspan id="w0">W</tspan>
-    <tspan id="w1">e</tspan>
-    <tspan id="w2">l</tspan>
-    <tspan id="w3">c</tspan>
-    <tspan id="w4">o</tspan>
-    <tspan id="w5">m</tspan>
-    <tspan id="w6">e</tspan>
-    <!-- space -->
-    <tspan dx="6"></tspan>
-    <!-- to (全小写) -->
-    <tspan id="t0">t</tspan>
-    <tspan id="t1">o</tspan>
-    <!-- space -->
-    <tspan dx="6"></tspan>
-    <!-- GitHub -->
-    <tspan id="g0">G</tspan>
-    <tspan id="g1">i</tspan>
-    <tspan id="g2">t</tspan>
-    <tspan id="g3">H</tspan>
-    <tspan id="g4">u</tspan>
-    <tspan id="g5">b</tspan>
+    <tspan id="typing-text">welcome to my github</tspan>
+    <!-- 光标 -->
+    <tspan id="cursor" dx="4">_</tspan>
   </text>
 
-  <!-- 光标 -->
-  <text x="440" y="38"
-        font-family="Fira Code, Courier New, monospace"
-        font-size="24"
-        letter-spacing="-0.5"
-        fill="#00FF00">
-    <tspan id="cursor">_</tspan>
-  </text>
-
+  <!-- 打字动画（逐字出现） -->
   <style>
-    /* 初始隐藏所有字符 */
-    tspan[id^="w"],
-    tspan[id^="t"],
-    tspan[id^="g"] {
-      visibility: hidden;
+    #typing-text {
+      opacity: 0;
+      animation: type 3s steps(20, end) forwards;
     }
-
-    /* Welcome: 0.0s ～ 0.9s */
-    #w0 { animation: show 0s 0.00s forwards; }
-    #w1 { animation: show 0s 0.15s forwards; }
-    #w2 { animation: show 0s 0.30s forwards; }
-    #w3 { animation: show 0s 0.45s forwards; }
-    #w4 { animation: show 0s 0.60s forwards; }
-    #w5 { animation: show 0s 0.75s forwards; }
-    #w6 { animation: show 0s 0.90s forwards; }
-
-    /* to: 1.1s ～ 1.4s */
-    #t0 { animation: show 0s 1.10s forwards; }
-    #t1 { animation: show 0s 1.25s forwards; }
-
-    /* GitHub: 1.45s ～ 2.35s */
-    #g0 { animation: show 0s 1.45s forwards; }
-    #g1 { animation: show 0s 1.60s forwards; }
-    #g2 { animation: show 0s 1.75s forwards; }
-    #g3 { animation: show 0s 1.90s forwards; }
-    #g4 { animation: show 0s 2.05s forwards; }
-    #g5 { animation: show 0s 2.20s forwards; }
-
-    @keyframes show {
-      to { visibility: visible; }
+    @keyframes type {
+      from { opacity: 0; }
+      to { opacity: 1; }
     }
 
     /* 光标闪烁 */
