@@ -1,4 +1,4 @@
-![Wave](https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/network.svg)
+![Network](https://raw.githubusercontent.com/spencerwooo/spencerwooo/master/network-animation.svg)
 
 
 **💻Languages and Tools**
