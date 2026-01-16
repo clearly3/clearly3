@@ -1,5 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=welcome+to+my+github)
 𝗜'𝗺 [𝗰𝗹𝗲𝗮𝗿𝗹𝘆𝟯](https://github.com/clearly3)
-
 
 **🚀About Me**
 - 🎓 Majoring in Computer Science (Class of 2020)  
