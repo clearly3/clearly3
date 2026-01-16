@@ -20,14 +20,13 @@
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![kali-linux](https://img.shields.io/badge/kali--linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596be?style=flat-square&logo=metasploit&logoColor=white)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-2d2d86?style=flat-square&logo=cobaltstrike&logoColor=white)
-![FOFA](https://img.shields.io/badge/FOFA-1c7cff?style=flat-square&logo=fofa&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-6CBC4D?style=flat-square&logo=owaspzap&logoColor=black)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-2d2d86?style=flat-square&logo=cobaltstrike&logoColor=white)
+![FOFA](https://img.shields.io/badge/FOFA-1c7cff?style=flat-square&logo=fofa&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![kali-linux](https://img.shields.io/badge/kali--linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 
 **🎮Game Stack**
 
