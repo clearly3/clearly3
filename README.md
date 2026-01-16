@@ -23,6 +23,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![kali-linux](https://img.shields.io/badge/kali--linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Caido](https://img.shields.io/badge/Caido-6C63FF?style=flat-square&logo=hyper&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-00D8A0?style=flat-square&logo=projectdiscovery&logoColor=black)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-6CBC4D?style=flat-square&logo=owaspzap&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596be?style=flat-square&logo=metasploit&logoColor=white)
