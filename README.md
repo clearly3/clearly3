@@ -1,6 +1,9 @@
-<div style="background:#000; padding:16px; border-radius:8px; display:inline-block;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=00FF00&lines=Welcome+to+my+GitHub" />
-</div>
+### Hi there I'm [Akhil!](https://akhilgkrishnan.me)👋
+I'm Akhil G Krishnan, a 22-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.<br>
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
+<!--
+**AkhilGKrishnan/AkhilGKrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **💻Languages and Tools**
 
