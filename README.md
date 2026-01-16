@@ -5,13 +5,11 @@
 𝗜'𝗺 [𝗰𝗹𝗲𝗮𝗿𝗹𝘆𝟯](https://github.com/clearly3)
 
 **🚀About Me**
-- 🎓 Non-CS background → now a **penetration tester & CTF player**  
-- 👀 Focused on **web security**
-- ⚙️ 
-- 🔭 
-- 💬  
-- ❤️ *Think deeply, learn constantly, code relentlessly, break things (safely!)*  
-- 🔥 **Making web apps unbreakable** — one Laravel feature at a time
+- 🎓 Non-CS student
+- ⚙️ Information Security Professional
+- 👀 A Penetration Tester and CTFer
+- 🔭 Bypass and Internal Network Penetration
+- 💬 Learning PHP/JAVA code audit
 
 **💻Languages & Tools**
 
@@ -28,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 **🎮Game Stack**
 
