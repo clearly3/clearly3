@@ -1,5 +1,6 @@
 𝗜'𝗺 [𝗰𝗹𝗲𝗮𝗿𝗹𝘆𝟯](https://github.com/clearly3)
-### 🚀 About
+
+**🚀About Me**
 - 🎓 Majoring in Computer Science (Class of 2020)  
 - 👀 I'm currently focusing on **web** and **android development**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
@@ -7,6 +8,7 @@
 - 💬 Ask me about: everything especially about **tech, movies, series**
 - **I** ❤️ **to think, learn, code, and customize everything**
 - 🔥 On Progress Project: E-learning build with Laravel 7
+
 **💻Languages & Tools**
 
 ![Java](https://img.shields.io/badge/Java-5B4638?style=flat-square&logo=java&logoColor=000000)
