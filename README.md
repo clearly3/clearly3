@@ -7,7 +7,7 @@
 **🚀About Me**
 - 🎓 Non-CS student
 - ⚙️ Information Security Professional
-- 👀 A **Penetration Tester** and **CTFer**
+- 👀 a **Penetration Tester** and **CTFer**
 - 🔭 Bypass and Internal Network Penetration
 - 💬 Learning **PHP/JAVA** code audit
 - 🕹️ **Console 3A Gamer**
