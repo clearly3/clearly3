@@ -1,24 +1,66 @@
-<svg width="500" height="60" xmlns="http://www.w3.org/2000/svg">
+<svg width="520" height="60" xmlns="http://www.w3.org/2000/svg">
   <!-- 黑色背景 -->
   <rect width="100%" height="100%" fill="#000000" rx="8" />
 
-  <!-- 文字容器 -->
+  <!-- 静态文字（初始隐藏） -->
   <text x="20" y="38"
         font-family="Fira Code, Courier New, monospace"
         font-size="24"
         fill="#00FF00">
-    <tspan id="typing-text">welcome to my github</tspan>
-    <!-- 光标 -->
-    <tspan id="cursor" dx="4">_</tspan>
+    <!-- 每个字符一个 tspan，依次显示 -->
+    <tspan id="c0">w</tspan>
+    <tspan id="c1">e</tspan>
+    <tspan id="c2">l</tspan>
+    <tspan id="c3">c</tspan>
+    <tspan id="c4">o</tspan>
+    <tspan id="c5">m</tspan>
+    <tspan id="c6">e</tspan>
+    <tspan id="c7" dx="8">t</tspan>
+    <tspan id="c8">o</tspan>
+    <tspan id="c9" dx="8">m</tspan>
+    <tspan id="c10">y</tspan>
+    <tspan id="c11" dx="8">g</tspan>
+    <tspan id="c12">i</tspan>
+    <tspan id="c13">t</tspan>
+    <tspan id="c14">h</tspan>
+    <tspan id="c15">u</tspan>
+    <tspan id="c16">b</tspan>
   </text>
+
+  <!-- 光标 -->
+  <text x="480" y="38"
+        font-family="Fira Code, Courier New, monospace"
+        font-size="24"
+        fill="#00FF00">
+    <tspan id="cursor">_</tspan>
+  </text>
+
+  <!-- 逐字显示动画 -->
   <style>
-    #typing-text {
-      opacity: 0;
-      animation: type 3s steps(20, end) forwards;
-    }
-    @keyframes type {
-      from { opacity: 0; }
-      to { opacity: 1; }
+    /* 初始全部隐藏 */
+    tspan[id^="c"] { visibility: hidden; }
+
+    /* 依次显示每个字符 */
+    #c0 { animation: show 0.0s 0.0s forwards; }
+    #c1 { animation: show 0.0s 0.15s forwards; }
+    #c2 { animation: show 0.0s 0.30s forwards; }
+    #c3 { animation: show 0.0s 0.45s forwards; }
+    #c4 { animation: show 0.0s 0.60s forwards; }
+    #c5 { animation: show 0.0s 0.75s forwards; }
+    #c6 { animation: show 0.0s 0.90s forwards; }
+    #c7 { animation: show 0.0s 1.05s forwards; }
+    #c8 { animation: show 0.0s 1.20s forwards; }
+    #c9 { animation: show 0.0s 1.35s forwards; }
+    #c10{ animation: show 0.0s 1.50s forwards; }
+    #c11{ animation: show 0.0s 1.65s forwards; }
+    #c12{ animation: show 0.0s 1.80s forwards; }
+    #c13{ animation: show 0.0s 1.95s forwards; }
+    #c14{ animation: show 0.0s 2.10s forwards; }
+    #c15{ animation: show 0.0s 2.25s forwards; }
+    #c16{ animation: show 0.0s 2.40s forwards; }
+
+    @keyframes show {
+      to { visibility: visible; }
     }
 
     /* 光标闪烁 */
