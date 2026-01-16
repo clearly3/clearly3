@@ -11,13 +11,12 @@
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 </p>
 
-**My Games:**
+**Gaming Platforms:**
 
 <p align="center">
   <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/steam.svg"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/epicgames.svg"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leagueoflegends.svg"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/playstation.svg"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xbox.svg"></code>
-<img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xbox.svg">
+  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/playstation.svg"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/leagueoflegends.svg"></code>
 </p>
