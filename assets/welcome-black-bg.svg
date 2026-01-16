@@ -1,63 +1,74 @@
-<svg width="520" height="60" xmlns="http://www.w3.org/2000/svg">
+<svg width="480" height="60" xmlns="http://www.w3.org/2000/svg">
   <!-- 黑色背景 -->
-  <rect width="100%" height="100%" fill="#000000" rx="8" />
+  <rect width="100%" height="100%" fill="#000000" rx="6" />
 
-  <!-- 静态文字（初始隐藏） -->
+  <!-- 文字：分组紧凑排版 -->
   <text x="20" y="38"
         font-family="Fira Code, Courier New, monospace"
         font-size="24"
+        letter-spacing="-0.5"  <!-- 紧凑字体 -->
         fill="#00FF00">
-    <!-- 每个字符一个 tspan，依次显示 -->
-    <tspan id="c0">w</tspan>
-    <tspan id="c1">e</tspan>
-    <tspan id="c2">l</tspan>
-    <tspan id="c3">c</tspan>
-    <tspan id="c4">o</tspan>
-    <tspan id="c5">m</tspan>
-    <tspan id="c6">e</tspan>
-    <tspan id="c7" dx="8">t</tspan>
-    <tspan id="c8">o</tspan>
-    <tspan id="c9" dx="8">m</tspan>
-    <tspan id="c10">y</tspan>
-    <tspan id="c11" dx="8">g</tspan>
-    <tspan id="c12">i</tspan>
-    <tspan id="c13">t</tspan>
-    <tspan id="c14">h</tspan>
-    <tspan id="c15">u</tspan>
-    <tspan id="c16">b</tspan>
+    <!-- Welcome -->
+    <tspan id="w0">W</tspan>
+    <tspan id="w1">e</tspan>
+    <tspan id="w2">l</tspan>
+    <tspan id="w3">c</tspan>
+    <tspan id="w4">o</tspan>
+    <tspan id="w5">m</tspan>
+    <tspan id="w6">e</tspan>
+    <!-- space -->
+    <tspan dx="6"></tspan>
+    <!-- to (全小写) -->
+    <tspan id="t0">t</tspan>
+    <tspan id="t1">o</tspan>
+    <!-- space -->
+    <tspan dx="6"></tspan>
+    <!-- GitHub -->
+    <tspan id="g0">G</tspan>
+    <tspan id="g1">i</tspan>
+    <tspan id="g2">t</tspan>
+    <tspan id="g3">H</tspan>
+    <tspan id="g4">u</tspan>
+    <tspan id="g5">b</tspan>
   </text>
 
   <!-- 光标 -->
-  <text x="480" y="38"
+  <text x="440" y="38"
         font-family="Fira Code, Courier New, monospace"
         font-size="24"
+        letter-spacing="-0.5"
         fill="#00FF00">
     <tspan id="cursor">_</tspan>
   </text>
 
-  <!-- 逐字显示动画 -->
   <style>
-    /* 初始全部隐藏 */
-    tspan[id^="c"] { visibility: hidden; }
+    /* 初始隐藏所有字符 */
+    tspan[id^="w"],
+    tspan[id^="t"],
+    tspan[id^="g"] {
+      visibility: hidden;
+    }
 
-    /* 依次显示每个字符 */
-    #c0 { animation: show 0.0s 0.0s forwards; }
-    #c1 { animation: show 0.0s 0.15s forwards; }
-    #c2 { animation: show 0.0s 0.30s forwards; }
-    #c3 { animation: show 0.0s 0.45s forwards; }
-    #c4 { animation: show 0.0s 0.60s forwards; }
-    #c5 { animation: show 0.0s 0.75s forwards; }
-    #c6 { animation: show 0.0s 0.90s forwards; }
-    #c7 { animation: show 0.0s 1.05s forwards; }
-    #c8 { animation: show 0.0s 1.20s forwards; }
-    #c9 { animation: show 0.0s 1.35s forwards; }
-    #c10{ animation: show 0.0s 1.50s forwards; }
-    #c11{ animation: show 0.0s 1.65s forwards; }
-    #c12{ animation: show 0.0s 1.80s forwards; }
-    #c13{ animation: show 0.0s 1.95s forwards; }
-    #c14{ animation: show 0.0s 2.10s forwards; }
-    #c15{ animation: show 0.0s 2.25s forwards; }
-    #c16{ animation: show 0.0s 2.40s forwards; }
+    /* Welcome: 0.0s ～ 0.9s */
+    #w0 { animation: show 0s 0.00s forwards; }
+    #w1 { animation: show 0s 0.15s forwards; }
+    #w2 { animation: show 0s 0.30s forwards; }
+    #w3 { animation: show 0s 0.45s forwards; }
+    #w4 { animation: show 0s 0.60s forwards; }
+    #w5 { animation: show 0s 0.75s forwards; }
+    #w6 { animation: show 0s 0.90s forwards; }
+
+    /* to: 1.1s ～ 1.4s */
+    #t0 { animation: show 0s 1.10s forwards; }
+    #t1 { animation: show 0s 1.25s forwards; }
+
+    /* GitHub: 1.45s ～ 2.35s */
+    #g0 { animation: show 0s 1.45s forwards; }
+    #g1 { animation: show 0s 1.60s forwards; }
+    #g2 { animation: show 0s 1.75s forwards; }
+    #g3 { animation: show 0s 1.90s forwards; }
+    #g4 { animation: show 0s 2.05s forwards; }
+    #g5 { animation: show 0s 2.20s forwards; }
 
     @keyframes show {
       to { visibility: visible; }
