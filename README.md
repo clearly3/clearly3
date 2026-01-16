@@ -1,5 +1,4 @@
-### Hi there I'm [clearly3](https://github.com/clearly3/clearly3/edit/main/README.md)
-I'm Akhil G Krishnan, a 22-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.<br>
+𝗜'𝗺 [𝗬𝗮𝗿𝗼𝗻𝘇𝘇](https://github.com/clealy3)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
 **💻Languages and Tools**
 
