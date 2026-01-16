@@ -1,29 +1,4 @@
-<!--
-██████╗ ███████╗ ██████╗██╗   ██╗██████╗ ████████╗
-██╔══██╗██╔════╝██╔════╝██║   ██║██╔══██╗╚══██╔══╝
-██████╔╝█████╗  ██║     ██║   ██║██████╔╝   ██║   
-██╔══██╗██╔══╝  ██║     ██║   ██║██╔═══╝    ██║   
-██║  ██║███████╗╚██████╗╚██████╔╝██║        ██║   
-╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝        ╚═╝   
--->
-
-<div align="left">
-  
-  <!-- Matrix-style typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=500&color=00ff00&center=false&vCenter=true&width=480&lines=%3E+ACCESSING+VISITOR+LOG...;%3E+ANALYZING+TRAFFIC+PATTERN...;%3E+YOU+ARE+VISITOR+%23" alt="Matrix Typing" />
-  
-  <!-- Real visitor counter (anonymous) -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=clearly3&color=00ff00&style=flat-square&label=SYSTEM+ACCESS" alt="Visitor Count" />
-  </p>
-
-  <!-- Optional: Matrix rain background (static, decorative) -->
-  <!-- 
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="480" style="opacity:0.1; margin-top:-80px; pointer-events:none;" />
-  -->
-
-  <sub><i>⚠️ All data is anonymous. No IP or personal info collected.</i></sub>
-</div>
+![Matrix](https://raw.githubusercontent.com/GabrielBB/xvfb-action/master/matrix.svg)
 
 
 **💻Languages and Tools**
