@@ -19,5 +19,5 @@
   <code><img height="40" src="https://img.icons8.com/color/48/steam.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/league-of-legends.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/clearly3/clearly3/refs/heads/main/assets/wegame.ico"></code>
-  <code><img height="40" src="https://github.com/clearly3/clearly3/blob/main/assets/pubg.jpg">
+  <code><img height="40" src="https://github.com/clearly3/clearly3/blob/main/assets/pubg.png">
 </p>
