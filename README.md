@@ -27,6 +27,7 @@
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-6CBC4D?style=flat-square&logo=owaspzap&logoColor=black)
 ![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-2d2d86?style=flat-square&logo=cobaltstrike&logoColor=white)
 ![FOFA](https://img.shields.io/badge/FOFA-1c7cff?style=flat-square&logo=fofa&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-000000?style=flat-square&logo=shodan&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-276DC3?style=flat-square&logo=sqlmap&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat-square&logo=hashcat&logoColor=white)
