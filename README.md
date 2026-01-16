@@ -6,10 +6,10 @@
 
 **🚀About Me**
 - 🎓 Non-CS background → now a **penetration tester & CTF player**  
-- 👀 Focused on **web security** and **Android app security** (Pwn/Reverse)  
-- ⚙️ Daily stack: `.php`, `.js`, `.html`, `.css` → **building secure apps or breaking them**  
-- 🔭 Building **security-hardened E-learning platform** (Laravel 7)  
-- 💬 Ask me about: **CTF write-ups**, **bug bounty**, **infosec tools**, or **sci-fi series**  
+- 👀 Focused on **web security**
+- ⚙️ 
+- 🔭 
+- 💬  
 - ❤️ *Think deeply, learn constantly, code relentlessly, break things (safely!)*  
 - 🔥 **Making web apps unbreakable** — one Laravel feature at a time
 
