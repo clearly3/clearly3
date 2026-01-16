@@ -10,6 +10,7 @@
 - 👀 A **Penetration Tester** and **CTFer**
 - 🔭 Bypass and Internal Network Penetration
 - 💬 Learning **PHP/JAVA** code audit
+- 🕹️ **Console 3A Gamer**
 
 **💻Languages & Tools**
 
